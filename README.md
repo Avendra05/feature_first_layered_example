@@ -1,16 +1,8 @@
-# feature_first_layered_example
+# 🔧 Flutter Feature-First Folder Structure Boilerplate
 
-A new Flutter project.
+This repository provides a **scalable and clean folder structure** for Flutter apps using a **feature-first + layered architecture** approach.
 
-## Getting Started
+It’s designed to help you kickstart medium to large-scale projects with modularity, testability, and team collaboration in mind.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
